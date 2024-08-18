@@ -9,7 +9,7 @@ public class DeleteBook {
 	}
 
 	public void setId(String ID) {
-		ID = ID;
+		this.ID = ID;
 	}
 	
 }

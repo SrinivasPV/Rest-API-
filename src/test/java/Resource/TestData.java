@@ -11,7 +11,7 @@ public class TestData {
 		AddBook ab = new AddBook();
 		ab.setName("Indian 3.0");
 		ab.setIsbn("asf");
-		ab.setAisle("704");
+		ab.setAisle("7018");
 		ab.setAuthor("John foe");
 		return ab;
 	}
